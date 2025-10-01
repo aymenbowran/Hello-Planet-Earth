@@ -1,4 +1,4 @@
-# 🚀 DevOps & Cloud Engineering Portfolio
+# 🚀 DevOps & Cloud Engineering QoL
 
 👋 Hello! I'm glad you're here. This repository serves as somewhat of a portfolio or if you're just trying to learn, a living collection of **IaC**, **container orchestration**, **monitoring configurations**, and **automation scripts**.
 
@@ -6,7 +6,7 @@
 
 ## 🎯 What You Will Find Here
 
-This portfolio is divided into four key domains of Cloud and DevOps engineering, each with its own detailed `README.md` that explains the contents and purpose:
+This "project" is divided into four key domains of Cloud and DevOps engineering, each with its own detailed `README.md` that explains the contents and purpose:
 
 | Directory | Core Focus | Key Technologies |
 | :--- | :--- | :--- |

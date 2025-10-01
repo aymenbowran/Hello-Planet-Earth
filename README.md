@@ -44,6 +44,6 @@ This repository is structured to be **newbie-friendly**, with clear explanations
 
 I'm always open to feedback and discussion on these projects. Feel free to connect with me!
 
-*(**[\Let's Connect on LinkedIn!\]](https://www.linkedin.com/in/aymenbowran/)**)*
+*(**[Let's Connect on LinkedIn!\]](https://www.linkedin.com/in/aymenbowran/)**)*
 
 Happy Days!

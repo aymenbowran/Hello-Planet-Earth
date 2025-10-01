@@ -1,17 +1,18 @@
-# ⚙️ Automation Scripts (Bash, Python, etc.) 🐍
+# ⚙️ Automation Scripts 🐍
 
-A collection of personal and work-related scripts designed to automate repetitive, administrative, and deployment tasks. Efficiency is key in DevOps, and these scripts demonstrate my ability to use **Bash** and **Python** to streamline workflows and reduce manual error.
+my little collection of scripts that are quite common in the system admin or devop world.
 
 ---
 
-## 📂 Categories of Scripts
+## 📁 Scripts Overview 
+**1. File Organizer (fileorganizer.py)**
+Automatically organizes files into categorized folders based on file type and optionally by date.
+**2. Server Health Monitor (servermonitor.py)**
+Monitors multiple servers with ping, port, and HTTP checks, with optional email alerts.
+**3. Log Parser & Analyzer (logparser.py)**
+Parses, analyzes, and generates reports from various log file formats with anomaly detection.
 
-| Folder | Purpose | Examples |
-| :--- | :--- | :--- |
-| **`bash-utilities`** | General-purpose shell scripts for Linux/Unix system tasks. | Log rotation, automated backups, file permission checks. |
-| **`deployment-helpers`** | Scripts that wrap complex commands for easier application deployment. | Single-command Docker build/push, k8s context switching. |
-| **`python-api`** | Scripts utilizing Python libraries for interacting with cloud APIs or reporting. | Simple AWS S3 inventory check, JSON data parsing. |
-
+MORE TO COME!
 ---
 
 ## 🎯 Skill Highlights
@@ -29,6 +30,19 @@ A collection of personal and work-related scripts designed to automate repetitiv
 2.  **Set Permissions:** Ensure the script has executable permissions: `chmod +x script_name.sh`.
 3.  **Test in a Safe Environment:** Use a local or non-production environment for testing new scripts.
 
----
+**Install all dependencies:**
+pip install watchdog requests
+or
+pip install requests -> fileorganizer.py
+pip install watchdog -> servermonitor.py
 
-_These are my personal tools to make life easier. Hope you find them useful!_
+
+---
+## 🚀 The End
+
+Keep in mind, each script can be;
+- Ran standalone from command line
+- Scheduled with cron jobs
+- Integrated into larger systems
+- Extended with custom functionality
+Hope this is somewhat useful to you.

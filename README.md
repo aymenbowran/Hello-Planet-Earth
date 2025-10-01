@@ -17,18 +17,6 @@ This portfolio is divided into four key domains of Cloud and DevOps engineering,
 
 ---
 
-## ✨ Core Skills Demonstrated
-
-This portfolio collectively highlights my proficiency in the following areas:
-
-1.  **Infrastructure as Code (IaC):** Managing infrastructure lifecycle through code for consistency and repeatability.
-2.  **Cloud-Native Architecture:** Building, deploying, and managing applications using containers and microservices.
-3.  **Automation:** Eliminating manual tasks through effective shell and high-level scripting.
-4.  **System Reliability:** Implementing robust monitoring and alerting for quick incident response and proactive health checks.
-5.  **GitOps & Version Control:** Managing all configuration and code changes via a standard version control workflow.
-
----
-
 ## 💡 How to Navigate This Portfolio (Newbie Guide)
 
 This repository is structured to be **newbie-friendly**, with clear explanations of *why* specific tools or patterns were chosen.
@@ -43,6 +31,7 @@ This repository is structured to be **newbie-friendly**, with clear explanations
 ## 🤝 Let's Connect
 
 I'm always open to feedback and discussion on these projects. Feel free to connect with me!
+Who doesn't love a little project huh..
 
 *(**[Let's Connect on LinkedIn!\]](https://www.linkedin.com/in/aymenbowran/)**)*
 

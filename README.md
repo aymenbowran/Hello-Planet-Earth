@@ -35,4 +35,4 @@ Who doesn't love a little project huh..
 
 *(**[Let's Connect on LinkedIn!\]](https://www.linkedin.com/in/aymenbowran/)**)*
 
-This repository is actively under development. While the structure is complete, some directories may temporarily appear empty as I continue to upload and refine the associated code and configuration files.
+This repository is ALWAYS under development, there's never not something to automate. Give me some time. While the structure is complete, some directories may temporarily appear empty as I continue to upload and refine the associated code and configuration files.
